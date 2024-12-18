@@ -5,8 +5,8 @@ build:
 loans:
   message: "Welcome to EazyBank loans related prod APIs "
   contactDetails:
-    name: "Pelias Sudhir - Product Owner"
-    email: "pelias@eazybank.com"
+    name: "Manoj Babu Balineni - Product Owner"
+    email: "manoh.balineni@websolutions.com"
   onCallSupport:
     - (723) 656-8709
     - (156) 342-0956
